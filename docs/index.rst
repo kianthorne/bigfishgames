@@ -5,11 +5,11 @@ Big Fish Games is one of the leading online game developers and distributors, of
 
 In this article, we will explore everything you need to know about **Big Fish Games Customer Support**, how to contact their support team, common issues customers face, and how to resolve those issues efficiently.
 
-.. image:: download.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://i-downloadsoftwares.com/
+   :target: https://getchatsupport.live/
 
 Overview of Big Fish Games
 --------------------------
